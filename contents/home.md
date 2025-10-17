@@ -1,20 +1,21 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/wpy-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently a **third-year** undergraduate student at the College of Control Science and Engineering, **Zhejiang University,** majoring in **Robotics Engineering** and guided by [Prof. Qiuguo Zhu](httpss://person.zju.edu.cn/0011353). My research interests lie primarily in Robot Control and Reinforcement Learning. I am also passionate about exploring more research areas. Please feel free to contact me
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+我目前是浙江大学控制科学与工程学院机器人工程专业的本科三年级学生，师从朱秋国教授。我的研究兴趣主要集中在机器人控制与强化学习。我还热衷于探索更多的研究领域。欢迎随时与我联系！
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### Email
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+`<code>`3230105936@zju.edu.cn `</code>`
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+`<code>`wpy5318280@163.com `</code>`
 
-#### Research Interests  
-XX, XX, XX, XX.
+#### Education
+
+2023.09-2027.06 | B.E. in Robotics Engineering, College of Control Science and Engineering, Zhejiang University
+
+2023.09-2027.06 | 浙江大学控制科学与工程学院机器人工程学士
+
+#### Research Interests
+
+Reinforcement Learning(强化学习)、Legged Robots
